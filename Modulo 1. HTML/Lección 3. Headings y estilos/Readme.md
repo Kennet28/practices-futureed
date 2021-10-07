@@ -1,3 +1,4 @@
+
 # Fundamentos de Programación Web
 
 <svg class="header-logo" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="291px" height="71.338px" viewBox="0 0 291 71.338" enable-background="new 0 0 291 71.338" xml:space="preserve">
@@ -46,9 +47,15 @@
   v17.341c0,4.849,1.08,8.48,3.25,10.87c2.16,2.412,5.662,3.617,10.518,3.617c2.048,0,4.059-0.562,6.032-1.681
   c1.973-1.119,3.461-2.6,4.458-4.457h0.148v5.13h7.986V23.856H135.44z"></path>
 </g>
-</svg>
 
-> Descripción del curso
-  El curso Fundamentos de Programación Web impartido por FutureED, el cual forma parte del Capítulo de “Jóvenes en las Tecnologías de la Información y Comunicación” del programa de “Technology Resilience” (TIC) impulsado por Huawei y el cual tiene por objetivo impulsar el gusto por la tecnología desde la juventud para generar una red de talento mexicano joven que pueda crecer, innovar y emprender.
-  
-> Autor: Kennet Jaryd Ávila Alcocer
+### Práctica de una estructura HTML
+> Instrucciones:
+
+Dentro de la carpeta de tu proyecto crea un documento llamado practica_html.html
+Dentro del elemento <b>body </b> agregar un <b>div</b> el cual contiene 3 bloques internos:
+
+En el primer bloque se deberá definir con el elemento <b>header</b> y en el agregar el título principal del documento y una imagen con un tamaño de 120x120px,
+
+En el segundo bloque se utilizará un elemento <b>div</b> y agregar 4 secciones con el elemento <b>section </b> y en cada una de ellas agregar un título, una descripción, un precio y una imagen con un tamaño de 200x200px
+
+En el tercer bloque se agrega un pie de página mediante el uso del atributo <b>footer</b> que contenga la misma imagen que en el elemento <b>header</b> esta vez la imagen debe ser de 80x80px y por último agregar 2 párrafos para añadir información adicional, utilizar los tributos style, width, height.+

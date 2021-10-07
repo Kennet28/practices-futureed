@@ -54,4 +54,7 @@
 Crea una carpeta para tu proyecto y posteriormente el repositorio en GitHub. Una vez que hayas creado la carpeta crea un documento llamado index.html
 En el documento deberás definir la estructura básica HTML de tu página web, posteriormente dentro del elemento "body" insertar los elementos vistos en esta lección, y también agregar 4 elementos con algún tipo de atributo.
 Una vez que hayas finalizado, valida que el código escrito sea correcto. Para validarlo, puedes apoyarte de <https://validator.w3.org/#validate_by_input>
+-----
+Preview
 
+![Index](Preview.png)
